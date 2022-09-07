@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\kairos\kairos\bin\Debug\kairos.exe.config
+C:\Users\Администратор\source\repos\kairos\kairos\bin\Debug\kairos.exe
+C:\Users\Администратор\source\repos\kairos\kairos\bin\Debug\kairos.pdb
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos_MarkupCompile.cache
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos_MarkupCompile.lref
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos.g.resources
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos.Properties.Resources.resources
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos.exe
+C:\Users\Администратор\source\repos\kairos\kairos\obj\Debug\kairos.pdb
